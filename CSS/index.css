@@ -160,3 +160,29 @@ button{
     flex-direction: row;
     justify-content: center;
 }
+.ingredient{
+    margin: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.star{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.starlogo{
+    border-radius: 50%;
+}
+.kitchen{
+    margin: 1em;
+    margin-left: 2em;
+    margin-right: 2em; 
+}
+.closing{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    border-top: 0.1px solid lightgray;
+    border-bottom: 0.1px solid lightgray;
+    padding: 2em;
+}
